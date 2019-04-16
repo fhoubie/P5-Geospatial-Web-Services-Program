@@ -1,1 +1,4 @@
 == Atom introduction
+
+
+Atom is a multi platform editor with a tight Git integration.
